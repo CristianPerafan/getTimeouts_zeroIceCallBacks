@@ -1,0 +1,502 @@
+3736861 
+Response time: 32547 ms
+11 416147 11 416147 
+
+11 416147 
+Response time: 34894 ms
+Response time: 34932 ms
+Response time: 34929 ms
+2 2 2 3 3 5 3457 2 2 2 3 3 5 3457 2 2 2 3 3 5 3457 
+
+
+Response time: 36531 ms
+Response time: 36471 ms
+Response time: 36438 ms
+2 2 3 19 19541 
+Response time: 37674 ms
+13 19 79 479 
+13 19 79 479 
+Response time: 41338 ms
+Response time: 41339 ms
+17 505357 
+Response time: 43372 ms
+2 3443681 2 3443681 
+
+Response time: 45016 ms
+Response time: 44903 ms
+2 3 17 31 727 
+Response time: 50592 ms
+2 5 854527 
+Response time: 52353 ms
+2 2 3 7 241 337 2 2 3 7 241 337 
+
+Response time: 53673 ms
+Response time: 53717 ms
+2 2 2 2 17 37 149 2 2 2 2 17 37 149 
+
+Response time: 53823 ms
+Response time: 53820 ms
+2459 3907 2459 3907 2459 3907 
+
+
+Response time: 61806 ms
+Response time: 61800 ms
+Response time: 61923 ms
+2 2 2130617 2 2 2130617 
+
+Response time: 64917 ms
+Response time: 64926 ms
+2 2 5 317 1291 
+2 2 5 317 1291 
+Response time: 68371 msResponse time: 68177 ms
+
+2 2 2 3 43 4253 
+Response time: 69164 ms
+47 169399 
+Response time: 70820 ms
+3 7 432287 
+Response time: 72764 ms
+
+
+
+
+2 3 47 30319 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Response time: 59701 msResponse time: 54335 ms
+
+
+Response time: 73030 ms
+Response time: 59708 ms
+
+
+
+
+
+
+
+Response time: 62038 ms
+
+
+
+
+Response time: 52737 ms
+Response time: 45196 ms
+
+
+Response time: 48442 ms
+Response time: 48437 ms
+Response time: 59722 ms
+
+Response time: 61326 ms
+Response time: 75158 ms
+Response time: 68453 ms
+Response time: 52749 ms
+Response time: 63077 ms
+Response time: 62036 ms
+Response time: 54343 ms
+Response time: 59707 ms
+Response time: 47270 ms
+Response time: 59722 ms
+Response time: 61333 ms
+Response time: 73028 ms
+Response time: 73027 ms
+
+Response time: 59732 ms
+Response time: 68443 ms
+Response time: 54336 ms
+Response time: 75130 ms
+Response time: 54348 ms
+Response time: 55932 ms
+Response time: 57839 ms
+Response time: 61327 ms
+Response time: 50967 ms
+Response time: 59711 ms
+Response time: 63093 ms
+Response time: 44764 ms
+Response time: 50966 ms
+Response time: 58015 ms
+Response time: 59699 ms
+Response time: 68443 ms
+Response time: 68447 ms
+Response time: 59714 ms
+Response time: 54345 ms
+
+
+Response time: 80383 ms
+Response time: 82447 ms
+1607 5897 
+Response time: 39824 ms
+3 2048413 3 2048413 3 2048413 
+
+
+Response time: 44444 msResponse time: 44442 ms
+Response time: 44441 ms
+
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+
+	at Client.main(Client.java:13)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+Exception in thread "main" 	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at Client.main(Client.java:13)
+
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+Exception in thread "main" com.zeroc.Ice.ConnectTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at com.zeroc.Ice._ObjectPrxI.ice_isA(_ObjectPrxI.java:31)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:949)
+	at com.zeroc.Ice.ObjectPrx._checkedCast(ObjectPrx.java:868)
+	at Demo.PrinterPrx.checkedCast(PrinterPrx.java:134)
+	at Client.main(Client.java:13)
+11 19 19 1901 11 19 19 1901 11 19 19 1901 
+
+
+Response time: 49831 ms
+Response time: 49833 msResponse time: 49821 ms
+
+3 2097727 
+Response time: 51114 ms
+4663817 4663817 
+
+Response time: 53967 msResponse time: 53967 ms
+
+2 2 3 3 3 3 59 401 
+Response time: 55518 ms
+3 19 37699 3 19 37699 
+
+Response time: 57108 msResponse time: 57110 ms
+
+2 2 23 37273 
+Response time: 69311 ms
+31 487 523 
+Response time: 70924 ms
+3 736273 3 736273 
+
+Response time: 71196 msResponse time: 71183 ms
+
+2 5 7 17713 2 5 7 17713 
+
+Response time: 71317 msResponse time: 71316 ms
+
+com.zeroc.Ice.ConnectionTimeoutException
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponseOrUserEx(OutgoingAsync.java:140)
+	at com.zeroc.IceInternal.OutgoingAsync.waitForResponse(OutgoingAsync.java:112)
+	at Demo.PrinterPrx.getAnswer(PrinterPrx.java:63)
+	at Demo.PrinterPrx.getAnswer(PrinterPrx.java:58)
+	at Client.main(Client.java:35)
+2 131 26861 2 131 26861 2 131 26861 
+
+
+Response time: 76428 msResponse time: 76414 msResponse time: 76423 ms
+
+
+7 929 1483 7 929 1483 
+
+Response time: 78811 msResponse time: 78811 ms
+
+29 113 1171 29 113 1171 
+
+Response time: 81043 ms
+Response time: 81036 ms
+11 345533 
+Response time: 83621 ms
+11 11 11 2909 
+Response time: 84211 ms
+59 54083 
+Response time: 84671 ms
+
+Response time: 81188 ms
+
+
+Response time: 84913 msResponse time: 69795 ms
+
+
+Response time: 77492 ms
+
+
+
+Response time: 81189 msResponse time: 81189 ms
+Response time: 69797 ms
+
+
+Response time: 69797 ms
+
+Response time: 84915 ms
+
+
+Response time: 84916 ms
+Response time: 69797 ms
+
+
+Response time: 69798 ms
+Response time: 75647 ms
+
+
+Response time: 75647 ms
+Response time: 51664 ms
+
+
+Response time: 59685 ms
+Response time: 65989 ms
+
+
+Response time: 69799 ms
+Response time: 71692 ms
+
+Response time: 63939 ms
+
+Response time: 57569 ms
+
+
+Response time: 68062 msResponse time: 69799 ms
+
+
+Response time: 77495 ms
+
+Response time: 55380 ms
+
+
+Response time: 50330 msResponse time: 81193 ms
+
+
+Response time: 57570 ms
+
+Response time: 51241 ms
+
+Response time: 59686 ms
+
+Response time: 59686 ms
+
+Response time: 71694 ms
+
+Response time: 59687 ms
+
+Response time: 49608 ms
+
+Response time: 69802 ms
+
+Ñme: 51668 ms
+
+Response time: 59689 ms
+
+Response time: 72410 ms
+
+Response time: 55384 ms
+
+Response time: 69806 ms
+617 2153 
+Response time: 49732 ms
+617 2153 
+
+Response time: 49740 ms
+Response time: 87345 ms
+2 3 3 3 5 13 773 
+Response time: 2185 ms
+
+Response time: 515 ms
+
+Response time: 1722 ms
